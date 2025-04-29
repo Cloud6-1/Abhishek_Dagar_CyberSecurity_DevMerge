@@ -35,7 +35,7 @@ The platform emphasizes efficiency, interactivity, and real-time collaboration f
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/navyaa274/DevMerge.git
+git clone [https://github.com/Cloud6-1/Abhishek_Dagar_CyberSecurity_DevMerge.git](https://github.com/Cloud6-1/Abhishek_Dagar_CyberSecurity_DevMerge.git)
 cd DevMerge
 
 
