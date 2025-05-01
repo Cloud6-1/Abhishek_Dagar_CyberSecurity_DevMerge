@@ -15,7 +15,7 @@
 The platform emphasizes efficiency, interactivity, and real-time collaboration for developers across different locations.
 
 ## 🎥 Video Demo  
-[Watch the video demo here](#) (Insert link once available)
+[Watch the video demo here](https://iconicesports.online/dev.mp4)
 
 ---
 
@@ -117,7 +117,7 @@ DevMerge/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/navyaa274/DevMerge/issues).
+Feel free to check out the [issues page](https://github.com/Cloud6-1/Abhishek_Dagar_CyberSecurity_DevMerge/issues).
 
 ---
 
